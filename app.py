@@ -1,5 +1,4 @@
 from tkinter import *
-from tkinter.ttk import Combobox
 from PIL import Image, ImageTk
 from googletrans import Translator
 
