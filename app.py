@@ -70,5 +70,4 @@ lang_combo.current(0)
 box_dest = Text(root, width=28, height=8, font=("ROBOTO", 16))
 box_dest.pack(pady=80)
 
-
 root.mainloop()
